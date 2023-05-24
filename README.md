@@ -106,11 +106,11 @@ calc.html
 </html>
 ```
 ## OUTPUT:
-![output](./calc.output.png)
+![calc output](https://github.com/BharathCSEIOT/standard-calculator/assets/122793480/2bed9148-ff9a-4a35-a1ff-20452299af5a)
 
 
 ## HTML validator:
-![output](./calc.html.png)
+![calc html](https://github.com/BharathCSEIOT/standard-calculator/assets/122793480/49ed3449-b49c-4d04-88b2-fb583df5a59c)
 
 ## Result:
 
